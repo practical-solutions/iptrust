@@ -1,0 +1,7 @@
+base   iptrust
+author Gero Gothe (original by: Andriy Lesyuk)
+email  practical@medizin-lernen.de
+date   2020-11-01
+name   IP-Trust-Plugin
+desc   Allows read-only access only to given set of IPs.
+url    https://github.com/practical-solutions/iptrust
